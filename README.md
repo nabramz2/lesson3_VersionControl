@@ -2,19 +2,23 @@
 
 
 ## Course Title:
-Web Application Development
+LIS 2360 Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+(February, 2018)
 
 ## Student Name:  
-(First and Last Name)
+(Noah Abramowitz)
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+(In this assignment, we have to analyze some of the topics weve learned in this past lesson, and then store our repository through Git Hub)
+
+## View Project:
+(https://preview.c9users.io/nabramz2/assignment3)
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
-
+1. (Highlight the advantages of Version Control Systems, and how it benefits developers.)
+2. (Analyze why Version Control Systems can have negative aspects when creating a project.)
+3. (Discuss what a repository is and its individual elements under it's "umbrella".)
+4. (Explain the important aspects that are necessary when creating a Git repository.)
+5. (Highlight some of the key Git commands that developers use, and what they can do.)
